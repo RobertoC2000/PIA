@@ -1,0 +1,6 @@
+https://www.facebook.com	no es maliciosa
+https://www.google.com	es maliciosa
+https://www.espn.com.mx	no es maliciosa
+https://www.facebook.com	no es maliciosa
+https://www.google.com	es maliciosa
+https://www.espn.com.mx	no es maliciosa

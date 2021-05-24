@@ -1,0 +1,7 @@
+Crackeo\_Cesar module
+=====================
+
+.. automodule:: Crackeo_Cesar
+   :members:
+   :undoc-members:
+   :show-inheritance:

@@ -1,0 +1,7 @@
+Escaneo\_Web module
+===================
+
+.. automodule:: Escaneo_Web
+   :members:
+   :undoc-members:
+   :show-inheritance:

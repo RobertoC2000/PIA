@@ -1,0 +1,7 @@
+PIA module
+==========
+
+.. automodule:: PIA
+   :members:
+   :undoc-members:
+   :show-inheritance:

@@ -1,0 +1,38 @@
+Antes de comenzar, debemos instalar los paquetes con el archivo 'requirements.txt', el archivo requirements.txt permite automatizar la instalación de paquetes, y lo podemos utilizar ejecutando el siguiente comando en nuestra terminal:
+
+	pip install -r requirements.txt
+
+Si tiene dudas de como acceder a la terminal lea la instruccion 1.
+
+1. Primeramente se debe acceder a la terminal cmd (Simbolo del sistema) desde el buscador en su equipo de computo.
+
+2. Ya en la terminal deberá acceder a la carpeta con el nombre "PIA" usando el comando cd (change directory) seguido del nombre de la carpeta 
+
+3. Seguido de haber accedido a la carpeta deberá escribir la línea de ejecución "python PIA.py -h", esto desplegará un menú, este contiene cada una de las herramientas de ciberseguridad con las que se estará trabajando
+
+4. Ya con el menú desplegado se puede ver en perfecto orden cada una de estas herramientas, de esta forma:
+    1. Cifrado Cesar
+    2. Descifrado Cesar
+    3. Crackeo Cesar
+    (Estas primeras 3 son parte del kit de Cifrado Cesar)
+    4. Obtención de metadatos
+    5. Obtención de claves Hash
+    6. Escaneo de páginas Web 
+    7. Envío de archivos adjutos por email 
+
+Los números que se encuentran antes del nombramiento de estás herramientas son las claves para la ejecución de las mismas.
+
+5. Para la ejecución de cualquiera de estas herramientas se necesitará escribir la siguiente linea de comando en el simbolo del sistema "python PIA.py -herramienta #Número de la herramienta" 
+
+Esta instrucción será más que suficiente para la ejecución de forma correcta de 4 de estás 5 herramientas
+
+5.1 En el paso anterior se mencionó que el comando de ejecución solo era útil para 4 herramientas.
+
+La herramienta número 4, Obtención de metadatos requiere la misma instrucción de ejecución, pero agregando un argumento extra que es necesario para la ejecución correcta, deberá escribirse de esta forma "python Pia.py -herramienta #Número de la herramienta  -c ruta path de la carpeta que contiene las imágenes"
+
+Nota: para obtener esta ruta es necesario abir el explorador de archivos, localizar su carpeta, dar clic derecho, elegir la opción propiedades
+
+La ruta deberá tener esta forma
+Example: C:\Users\shagg\Downloads\Pia(v3)\IMAGENES
+
+Solo debe añadir el nombre de la carpeta para terminar con esa forma

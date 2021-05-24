@@ -1,0 +1,7 @@
+Email module
+============
+
+.. automodule:: Email
+   :members:
+   :undoc-members:
+   :show-inheritance:
