@@ -3,7 +3,7 @@ def Descifrar():
     message = input('Ingresa el mensaje a descifrar: ')
     espacios = 1
     while espacios > 0:
-        clave = input('Ingresa tu palabra clave uasada para cifrar: ')
+        clave = input('Ingresa tu palabra clave usada para cifrar: ')
         espacios = clave.count(' ')
         if clave.isalpha() == False:
             espacios += 1
