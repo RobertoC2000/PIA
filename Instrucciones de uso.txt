@@ -6,7 +6,7 @@ Si tiene dudas de como acceder a la terminal lea la instruccion 1.
 
 1. Primeramente se debe acceder a la terminal cmd (Simbolo del sistema) desde el buscador en su equipo de computo.
 
-2. Ya en la terminal deberá acceder a la carpeta con el nombre "PIA" usando el comando cd (change directory) seguido del nombre de la carpeta 
+2. Ya en la terminal deberá acceder a la carpeta con el nombre "PIA" usando el comando cd (change directory) seguido del nombre de la carpeta, usando la misma forma y el mismo comando deberá acceder a la carpeta con el nombre "Scripts"; acto seguido deberá ingresar a la carpeta de nombre "venv" usando la misma forma y el mismo comando.
 
 3. Seguido de haber accedido a la carpeta deberá escribir la línea de ejecución "python PIA.py -h", esto desplegará un menú, este contiene cada una de las herramientas de ciberseguridad con las que se estará trabajando
 
